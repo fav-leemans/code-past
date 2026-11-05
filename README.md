@@ -1,1 +1,1 @@
-its just stuff i wrote in school
+its code i write on a whim
