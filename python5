@@ -1,0 +1,12 @@
+print("hi there", input("input name here: "))
+
+namez: list = ["waldo", "bob", "charlie", "you"]
+extrabums: list = ["arika", "ervin"]
+x: int = 1
+for i in range(4):
+  if i % 2 == 0:
+    print(namez[i])
+  else:
+    x: int = (i - 1) // 2 
+    print (extrabums[x])
+    print (namez[i])
